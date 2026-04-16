@@ -1,6 +1,6 @@
-# Arranubels Personal Website
+# Arran Ubels Personal Website
 
-Welcome to my personal website! I'm Arranubels, and this is my online portfolio and personal page.
+Welcome to my personal website! I'm Arran Ubels, and this is my online portfolio and personal page.
 
 ## About
 
